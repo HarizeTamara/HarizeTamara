@@ -15,6 +15,12 @@
 </a>-->
 </div>
 
+# Olá, sou Harize Tamara 👋😊
+
+<div> 
+  <a href="https://ko-fi.com/eusouivypoison" target="_blank"><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" target="_blank" height="30" width="40"></a>
+</div> 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Harize-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Harize-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
