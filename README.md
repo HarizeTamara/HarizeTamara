@@ -17,6 +17,7 @@
 </div>
 
 ## ##
+
 Essas são algumas das minhas redes sociais
 <div> 
   <a href="https://ko-fi.com/eusouivypoison" target="_blank"><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" target="_blank" height=30" width="40"></a>
