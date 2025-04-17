@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo atualmente JavaScript & Lua
 - 📫 Contate-me no E-mail: harizetamara@gmail.com
 - 😄 Pronomes: ela/dela
-- ⚡ Fato engraçado: sou Sagitária
+- ⚡ Fato engraçado: sou Sagitáriana
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,13 +15,13 @@
 </a>-->
 </div>
 
-# Olá, sou Harize Tamara 👋😊
-
+## ##
+Essas são algumas das minhas redes sociais
 <div> 
   <a href="https://ko-fi.com/eusouivypoison" target="_blank"><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" target="_blank" height=30" width="40"></a>
   <a href="https://www.instagram.com/harizetamara/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" target="_blank" height="40" width="40"></a>
 </div> 
-
+Essas são algumas das linguagem que estou aprendendo
 <div style="display: inline_block"><br>
   <img align="center" alt="Harize-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
   <img align="center" alt="Harize-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,10 +35,16 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
-  
+Esses são algumas programas que domino 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Harize-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">  
+  <img align="center" alt="Harize-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Harize-AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg">
+  <img align="center" alt="Harize-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg">
+</div>
 
-  ##
- 
+##
+
 <div> 
   <a href="https://www.youtube.com/@eusouivypoison" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eusouivypoison" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
