@@ -19,6 +19,7 @@
 
 <div> 
   <a href="https://ko-fi.com/eusouivypoison" target="_blank"><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" target="_blank" height="30" width="40"></a>
+  <a href="https://www.instagram.com/harizetamara/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" target="_blank" height="30" width="40"></a>
 </div> 
 
 <div style="display: inline_block"><br>
