@@ -2,6 +2,7 @@
 
 <!-- - 👩🏻‍💻 Estou trabalhando atualmente em ... -->
 - 🌱 Estou aprendendo atualmente JavaScript, HMTL e CSS
+- 👩🏻‍💻 Trabalho com Photoshop, Premiere e After Effects
 - 📫 Contate-me no E-mail: harizetamara@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fato engraçado: sou Sagitáriana
