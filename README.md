@@ -1,7 +1,7 @@
 ## Olá, sou Harize Tamara 👋😊
 
 <!-- - 👩🏻‍💻 Estou trabalhando atualmente em ... -->
-- 🌱 Estou aprendendo atualmente JavaScript & Lua
+- 🌱 Estou aprendendo atualmente JavaScript, HMTL e CSS
 - 📫 Contate-me no E-mail: harizetamara@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fato engraçado: sou Sagitáriana
