@@ -1,7 +1,7 @@
 ## Olá, sou Harize Tamara 👋😊
 
 <!-- - 👩🏻‍💻 Estou trabalhando atualmente em ... -->
-- 🌱 Estou aprendendo atualmente JavaScript, HMTL e CSS
+- 🧠 Estou aprendendo atualmente JavaScript, HMTL e CSS
 - 👩🏻‍💻 Trabalho com Photoshop, Premiere e After Effects
 - 📫 Contate-me no E-mail: harizetamara@gmail.com
 - 😄 Pronomes: ela/dela
@@ -18,13 +18,11 @@
 
 ## ##
 Essas são algumas das minhas redes sociais
-
 <div> 
   <a href="https://ko-fi.com/eusouivypoison" target="_blank"><img src="https://storage.ko-fi.com/cdn/logomarkLogo.png" target="_blank" height=30" width="40"></a>
   <a href="https://www.instagram.com/harizetamara/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" target="_blank" height="40" width="40"></a>
 </div> 
 Essas são algumas das linguagem que estou aprendendo
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Harize-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
   <img align="center" alt="Harize-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +33,6 @@ Essas são algumas das linguagem que estou aprendendo
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
 Esses são algumas programas que domino 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Harize-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">  
   <img align="center" alt="Harize-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
