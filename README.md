@@ -27,8 +27,6 @@
 
 </p>
 
-###
-Essas são algumas das minhas redes sociais
 <div> 
   <a href="https://www.youtube.com/@harizetamara" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/harizetamara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
