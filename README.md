@@ -7,14 +7,25 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Fato engraçado: sou Sagitáriana
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=HarizeTamara&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarizeTamara&layout=compact&langs_count=16&theme=dark" />
-</a>
-</div>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=HarizeTamara&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarizeTamara&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ##
 Essas são algumas das minhas redes sociais
