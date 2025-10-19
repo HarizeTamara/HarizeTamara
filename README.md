@@ -49,5 +49,3 @@
   <img align="center" alt="Harize-AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="Harize-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg">
 </div>
-
-
