@@ -24,6 +24,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarizeTamara&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 ##
 <div> 
   <a href="https://www.youtube.com/@harizetamara" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
